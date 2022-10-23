@@ -10,7 +10,7 @@ const PostList = () => {
         <p>{i.content.substring(0, 100)}</p>
     </article>)
     return <section>
-        <h2 className="text-2xl mb-5 font-bold h-10 w-10"> Posts</h2>
+        <h2 className="text-2xl my-5 font-bold h-10 w-full text-center"> Comandes</h2>
         {renderdPostes}
     </section>
 }
