@@ -6,7 +6,7 @@ const initialState = [
         content: 'show me Power',
         date: sub(new Date(), { minutes: 10 }).toISOString(),
         id: '1',
-        title: 'hellow newFearnde ',
+        title: 'hi ',
         reactions: {
             thumbsUp: 0,
             wow: 0,
@@ -16,7 +16,7 @@ const initialState = [
         }
     },
     {
-        content: 'I am Try To Learn You Show Me Power',
+        content: 'Show Me Power',
         date: sub(new Date(), { minutes: 5 }).toISOString(),
         id: '2',
         title: 'what do you Think ',
