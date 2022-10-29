@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "chrome",
+      "name": "http://thumbsUp",
+      "request": "launch",
+      "url": "http://thumbsUp"
+    }
+  ]
+}
